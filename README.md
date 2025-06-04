@@ -141,7 +141,6 @@ MIT License - Free for commercial and academic use.
 
 **👨‍💻 Author:** Sagar Mandal\
 **🔗 LinkedIn:** https://www.linkedin.com/in/sagar-mandal-526698196/
-**🗒️ Article: **
 
 --- 
 
