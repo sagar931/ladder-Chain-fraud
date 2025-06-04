@@ -146,7 +146,7 @@ MIT License - Free for commercial and academic use.
 --- 
 
 
-[![GitHub Stars](https://img.shields.io/github/stars/sagar931/chain-ladder-fraud?style=social)](https://github.com/yourrepo/chain-ladder-fraud)  
+[![GitHub Stars](https://img.shields.io/github/stars/sagar931/ladder-Chain-fraud?style=social)](https://github.com/yourrepo/ladder-Chain-fraud)  
 
 --- 
 
