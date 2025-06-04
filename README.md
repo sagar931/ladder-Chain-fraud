@@ -19,6 +19,8 @@
 ## **🔍 What is the Chain Ladder Method?**  
 The **Chain Ladder (CL) Method** is an actuarial technique used to forecast future losses by analyzing historical claims development patterns.  
 
+**Refer Article** - https://www.linkedin.com/pulse/predicting-fraud-losses-like-pro-chain-ladder-method-real-mandal-r812c 
+
 - **Used in:** Insurance, Banking, FinTech, Healthcare 
 - **Key Idea:** *"Past fraud trends predict future losses."*  
 - **Input:** A "run-off triangle" of fraud losses over time.  
